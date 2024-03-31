@@ -16,15 +16,18 @@
             rounded
             label="Youtube"
             class="q-mr-xs"
+            src="https://www.youtube.com/@headriser8241"
           ></q-btn>
           <q-btn 
             rounded
             label="Twitch"
             class="q-mr-xs"
+            src="https://www.twitch.tv/kurisutina1"
           ></q-btn>
           <q-btn 
             rounded
             label="Telegram"
+            src=""
           ></q-btn>
         </div>
         <div>
